@@ -102,6 +102,19 @@ The corpus was subjected to cleaning and converting the numberical labels to zer
 | CNN         | 0.2207   | 74.86    |
 | Char-CNN    | 0.1968   | 71.50    |
 
+## Citation
+If you use our work please cite:
+```bibtex
+@misc{thangaraj2024crosslingualtransfermultilingualmodels,
+      title={Cross-lingual transfer of multilingual models on low resource African Languages}, 
+      author={Harish Thangaraj and Ananya Chenat and Jaskaran Singh Walia and Vukosi Marivate},
+      year={2024},
+      eprint={2409.10965},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.10965}, 
+}
+```
 
 ## Acknowledgements
 
