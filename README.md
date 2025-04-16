@@ -1,6 +1,12 @@
 
 # Cross-lingual transfer of multilingual models on low resource African Languages
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+
 ## Overview
 Benchmarking cross-lingual transfer from Kinyarwanda to Kirundi using transformer(mBERT, AfriBERT, BantuBERTa) and traditional neural models (BiGRU, CNN, char-CNN). While monolingual models remain competitive, the analysis highlights the strong cross-lingual transfer capabilities in resource limited settings of transformer multilingual architectures. 
 
